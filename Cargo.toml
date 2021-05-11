@@ -1,0 +1,10 @@
+[package]
+name = "letme"
+version = "0.0.0"
+authors = ["tkeiyama <thomas18thx@gmail.com>"]
+edition = "2018"
+description = "A user-friendly shell written in Rust."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
